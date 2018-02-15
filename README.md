@@ -1,0 +1,2 @@
+# newventure
+initialize effort
